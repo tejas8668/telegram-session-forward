@@ -7,7 +7,7 @@
 api_id = 23555060                                                      # required
 api_hash = "93e5daac0d210f8b631c5c0b7100f4fd"                       # required
 bot_token = "7875731406:AAFskPdhYZClRik5zvvAWeuvYmzxmwtxl0Y"                  # either bot_token or session_string is required
-session_string = "" # either bot_token or session_string is required
+session_string = "BQFna_QAiiZ4xvx2sxt-3wAc9GWPi8SilJC1wpI9jt-QEfsj5655MOmFQG9yp7rXvnncpx6D_r6xvH_xZ4ZsUxQmBXbg_WfQOx-c0IW58ZXHMDCCCHBXqatUoSOmc_jGiDv0wTtbMUirQpxr_g6uh7W23c7MPFoo4l-ruyIt3VcqOCrb3pBryiOYqHplM6XzWhwf6AE2kSO4DDN8c37Pdt-iZmit4gADb0cmcI3q2OmCXDe8rQs6mwzchBk5SPepMHo9_3OZmH9WMqDeCP3ParScc9Bt77ZoQUKedGhzP97EHcL8gyUEU7vpM708ZWciv3Suz_v36EPCGaNRyWeyJT3NJ04i-gAAAAGtznJ-AA" # either bot_token or session_string is required
 sudo_users = [7210955390]                                 # optional
 
 
